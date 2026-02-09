@@ -1,6 +1,9 @@
+——————————————————————————————————————————————————————————————————————
 portfólio de Yudi Matsumoto
 
-lista projetos 
+lista projetos :
+
+——————————————————————————————————————————————————————————————————————
 
   projeto simples teste. (farenheit em graus celsius)
   
@@ -11,6 +14,8 @@ print(
     f"{graus_celsius:.2f} graus Celsius"
 )
 
+——————————————————————————————————————————————————————————————————————
+
  projeto . API REST de Usuários 
 
  file:///C:/Users/yudis/backend-api/app.py
@@ -20,3 +25,6 @@ print(
  file:///C:/Users/yudis/backend-api/README.md
 
 (copiar no navegador)
+
+——————————————————————————————————————————————————————————————————————
+
