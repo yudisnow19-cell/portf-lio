@@ -11,8 +11,12 @@ print(
     f"{graus_celsius:.2f} graus Celsius"
 )
 
- projeto . API REST de Usuários
+ projeto . API REST de Usuários 
 
  file:///C:/Users/yudis/backend-api/app.py
+ 
  file:///C:/Users/yudis/backend-api/requirements.txt
+ 
  file:///C:/Users/yudis/backend-api/README.md
+
+(copiar no navegador)
