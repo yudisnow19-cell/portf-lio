@@ -102,6 +102,7 @@ def login(login: Login):
 
 @app.get("/")
 def home():
+
     return {"mensagem": "API funcionando"}
 
 —————————————
