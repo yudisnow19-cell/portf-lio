@@ -20,7 +20,7 @@ print(
  
  (terminal) pip install fastapi uvicorn bcrypt python-jose
 
- ———————————————————————————————————————————————————————————————
+ —————————————
  
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
@@ -103,7 +103,7 @@ def login(login: Login):
 @app.get("/")
 def home():
     return {"mensagem": "API funcionando"}
-———————————————————————————————————————————————————————————————
+—————————————
 importante:
 /docs 
 uvicorn main:app --reload
