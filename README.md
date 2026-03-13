@@ -103,7 +103,9 @@ def login(login: Login):
 @app.get("/")
 def home():
     return {"mensagem": "API funcionando"}
+
 —————————————
+
 importante:
 /docs 
 uvicorn main:app --reload
